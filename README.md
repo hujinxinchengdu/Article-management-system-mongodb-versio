@@ -4,15 +4,15 @@
 
 Jinxin Hu:
 
-	Completed the sign-up and log-in part;
+	Completed the sign-up and log-in part which including login encryption and token functions.;
 	
 	Completed other auxiliary functions like getting user basic information and updating password;
 
 Wenrui Fang:
 
-	Wrote the page of homepage part;
+	Wrote the code of article category with update, delete and add function frontend and backend
 	
-	Wrote the code of article category, article list and article deleting parts;
+	Wrote article list and article deleting parts with update, delete and add function;
 
 The diagram on the homepage is not the content of this project. It is just a sample display.
 
